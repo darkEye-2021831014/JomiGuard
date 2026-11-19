@@ -1,0 +1,31 @@
+[
+ {
+  "type": "khatian",
+  "id": "RS 100",
+  "date": "1980-01-01",
+  "buyer": "A. Karim",
+  "dag": "12",
+  "area": 4.0,
+  "cite": "Khatian 100"
+ },
+ {
+  "type": "deed",
+  "id": "#1",
+  "date": "2010-05-01",
+  "seller": "A. Karim",
+  "buyer": "B",
+  "dag": "12",
+  "area": 3.0,
+  "cite": "Deed #1"
+ },
+ {
+  "type": "deed",
+  "id": "#2",
+  "date": "2015-05-01",
+  "seller": "A. Karim",
+  "buyer": "C",
+  "dag": "12",
+  "area": 3.0,
+  "cite": "Deed #2"
+ }
+]
